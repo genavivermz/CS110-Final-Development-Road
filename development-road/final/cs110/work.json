@@ -7,7 +7,17 @@
     "projectDescription": "User: Young student founders seeking a structured roadmap for their social impact projects.\nPurpose: To generate a personalized milestone path and surface matched opportunities based on the user's project stage, impact area, and weekly time constraints.\nSmallest working result: An interactive Babylon.js 3D path where user inputs dynamically adjust pacing and clicking any step opens a GUI card with tailored tasks and matched opportunities.\nWhat I will contribute: Building this solo; web-based application end-to end building, using Visual Studio Code, HTML, CSS, JavaScript, and Babylon.js; handling data modeling, pacing logic engine, and 3D UI.",
     "path": "desktop",
     "selected": [
-      "save"
+      "save",
+      "branch",
+      "settings",
+      "inventory",
+      "dialogue",
+      "search",
+      "access",
+      "tshirt",
+      "ai-promo",
+      "project-mark",
+      "quick-card"
     ],
     "engine": "Visual Studio Code / Babylon.js / HTML, CSS, JavaScript",
     "gitEvidence": "Ran git status, git add ., git commit -m \"Test commit: verify Git and GitHub connection\", and git push origin main after updating README.md. \nCommit 6172028 was pushed to main and the CS110-Final-Development-Road repository opened displaying the updated README.md file and latest commit message.",
