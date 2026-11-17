@@ -1,0 +1,36 @@
+{
+  "schema": "final-road-work-v1",
+  "course": "CS110",
+  "name": "Genavive Ramirez",
+  "work": {
+    "project": "A story worth playing",
+    "path": "story",
+    "selected": [
+      "save"
+    ],
+    "engine": "Visual Studio Code / Unity / C#",
+    "gitEvidence": "",
+    "ai": "Gemini, ChatGPT",
+    "aiVerify": "Compare against ChatGPT responses, research solo if skeptical, run tests.",
+    "notes": "",
+    "plan": "",
+    "availability": "",
+    "service": "",
+    "role": "Developer",
+    "board": {
+      "nodes": [],
+      "edges": [],
+      "strokes": []
+    },
+    "huddle": {
+      "stage": 0,
+      "returned": false,
+      "goal": "",
+      "personal": "",
+      "questions": ""
+    },
+    "evidence": {},
+    "tasks": [],
+    "dailyNotes": []
+  }
+}
