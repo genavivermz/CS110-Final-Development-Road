@@ -4,7 +4,7 @@
   "name": "Genavive Ramirez",
   "work": {
     "project": "Genavive's Final Mission",
-    "projectDescription": "",
+    "projectDescription": "User: Young student founders seeking a structured roadmap for their social impact projects.\nPurpose: To generate a personalized milestone path and surface matched opportunities based on the user's project stage, impact area, and weekly time constraints.\nSmallest working result: An interactive Babylon.js 3D path where user inputs dynamically adjust pacing and clicking any step opens a GUI card with tailored tasks and matched opportunities.\nWhat I will contribute: Building this solo; web-based application end-to end building, using Visual Studio Code, HTML, CSS, JavaScript, and Babylon.js; handling data modeling, pacing logic engine, and 3D UI.",
     "path": "desktop",
     "selected": [
       "save"
